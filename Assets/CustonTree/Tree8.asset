@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db482accf40a6248826c9092a52c35d, type: 3}
+  m_Name: Tree8
+  m_EditorClassIdentifier: 
+  Axiom: F
+  Rules1_1: 70
+  Rules1: F[+F]F[-F]F
+  Rules2_1: 0
+  Rules2: 
+  Angle: 25.7
+  Length: 2
+  Width: 0.2
+  color: {r: 0, g: 1, b: 0, a: 1}
+  iteration: 5
